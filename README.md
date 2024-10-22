@@ -1,2 +1,0 @@
-# pcanterini.com
-Personal Site
